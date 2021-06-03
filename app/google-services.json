@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225473352317",
+    "project_id": "appstore-5d1d8",
+    "storage_bucket": "appstore-5d1d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225473352317:android:0aa0ef33b499b27a5d9714",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.appstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225473352317-1q6lpiittin5oj5na1cfkk9v4hbo8ire.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS8NcgwI-xFH3VbVLXnoUjQd7HznhSOoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225473352317-1q6lpiittin5oj5na1cfkk9v4hbo8ire.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
