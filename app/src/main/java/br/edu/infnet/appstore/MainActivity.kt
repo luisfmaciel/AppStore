@@ -107,9 +107,9 @@ class MainActivity : AppCompatActivity() {
                     recyclerView_produtos.layoutManager = mLayoutManager
                     recyclerView_produtos.itemAnimator = DefaultItemAnimator()
                     recyclerView_produtos.adapter = mAdapter
-                    recyclerView_produtos.addItemDecoration(
-                        DividerItemDecoration(this, DividerItemDecoration.VERTICAL)
-                    )
+//                    recyclerView_produtos.addItemDecoration(
+//                        DividerItemDecoration(this, DividerItemDecoration.VERTICAL)
+//                    )
                 } else {
                         Log.d(TAG, "Error getting documents: ", task.exception)
                 }
