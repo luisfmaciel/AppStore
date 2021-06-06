@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuSwitchEmEstoque"
+        android:title="Em estoque"
+        app:actionLayout="@layout/switch_item"
+        app:showAsAction="withText"/>
+
+        <item android:title="Em estoque"
+            android:id="@+id/item_estoque" />
+
+        <item android:title="Melhor avaliado"
+            android:id="@+id/item_melhorAvaliado"/>
+
+        <item android:title="Menores preços"
+            android:id="@+id/item_menoresPrecos"/>
+
+        <item android:title="Maiores preços"
+            android:id="@+id/item_maioresPrecos"/>
+
+        <item android:title="Ordenar por nome"
+            android:id="@+id/item_nome"/>
+</menu>

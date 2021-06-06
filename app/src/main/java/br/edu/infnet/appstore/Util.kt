@@ -9,5 +9,7 @@ object Util {
     const val EXTRA_DESCRICAO = "descricao"
     const val EXTRA_IMAGEM = "imagem"
 
+    var OPTION_SELECT: Int? = null
+
 }
 
